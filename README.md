@@ -9,6 +9,10 @@ Here are some photos of the class :smile:
 ![photo3](photos/IMG_0414.JPG)
 ![photo4](photos/IMG_0415.JPG)
 
+Here is a video showing the evolution of this repository:
+
+[![gource](https://img.youtube.com/vi/W-x6OS_PijU/0.jpg)](https://www.youtube.com/watch?v=W-x6OS_PijU)
+
 Looking forward for a new class in 2018!!!
 
 Claudio and Matthias
